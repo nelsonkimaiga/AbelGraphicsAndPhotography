@@ -12,3 +12,10 @@ body {
 .navbarlinks{
     color: #071925;
 }
+
+#bg{
+    background-color: #fff;
+    height: 418px;
+    background-image: url(../assets/BG1.jpg);
+    width: 100%;
+}
