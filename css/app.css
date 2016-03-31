@@ -19,3 +19,9 @@ body {
     background-image: url(../assets/BG1.jpg);
     width: 100%;
 }
+
+#bg-content{
+    padding-bottom: 30px;
+    color: #fff;
+    font-family: 'Raleway', serif;
+}
