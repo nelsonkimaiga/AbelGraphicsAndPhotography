@@ -18,7 +18,6 @@ body {
     height: 418px;
     background-image: url(../assets/BG1.jpg);
     width: 100%;
-    margin: 0 auto;
 }
 
 .bg-content{
@@ -36,3 +35,16 @@ body {
     padding-top: 1px;
     font-size: 15px;
 }
+
+#photography{
+    background-color: #fff;
+    background-image: url(../assets/Cat.jpg);
+    width: 100%;
+    height: 418px;
+    margin-top: 5px;
+}
+
+#footer{
+    margin-top: 3px;
+}
+
