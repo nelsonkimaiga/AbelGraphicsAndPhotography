@@ -18,10 +18,21 @@ body {
     height: 418px;
     background-image: url(../assets/BG1.jpg);
     width: 100%;
+    margin: 0 auto;
 }
 
-#bg-content{
-    padding-bottom: 30px;
+.bg-content{
     color: #fff;
-    font-family: 'Raleway', serif;
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 135px;
+    font-size: 85px;
+}
+
+#desc{
+    color: #c0c0c0;
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 1px;
+    font-size: 15px;
 }
